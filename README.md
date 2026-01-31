@@ -6,7 +6,7 @@ This repo demonstrates a grant-friendly packaging pattern:
 - auditable receipts (hashes + gate results)
 - explicit limitations + redactions
 
-This is NOT the secret sauce. It uses synthetic data and simple models.
+This is not the secret sauce. It uses synthetic data and simple models.
 
 ## Quickstart
 
