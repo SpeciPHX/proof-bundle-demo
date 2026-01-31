@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+outputs/
+runs/
+MANIFEST.json
+EVIDENCE_INDEX.md
+AUDIT_SUMMARY.md
+METHODS.md
+LIMITATIONS.md
+REDACTIONS.md
